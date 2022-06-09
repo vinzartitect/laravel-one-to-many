@@ -13028,7 +13028,7 @@ var root = new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Vincenzo\Desktop\5 - boolean Laravel\8 - autenticazione\laravel-auth\resources\js\front.js */"./resources/js/front.js");
+module.exports = __webpack_require__(/*! C:\Users\Vincenzo\Desktop\5 - boolean Laravel\9 - relazione tra tabelle\laravel-one-to-many\resources\js\front.js */"./resources/js/front.js");
 
 
 /***/ })
